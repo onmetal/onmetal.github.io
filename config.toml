@@ -32,6 +32,11 @@ paginate     = 10
     name = "github"
     url  = "https://github.com/onmetal"
 
+  [params.portrait]
+    path     = "/images/logo.png"
+    alt      = "On Metal Logo"
+    #maxWidth = "50px"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
