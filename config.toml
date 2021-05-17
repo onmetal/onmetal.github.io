@@ -13,6 +13,8 @@ paginate     = 10
   # Subtitle for home
   homeSubtitle = "Open Source Infrastructure"
 
+  #backgroundImage = "/images/bg.jpeg"
+
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
