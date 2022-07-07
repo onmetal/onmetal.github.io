@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on On Metal</title><link>https://onmetal.github.io/posts/</link><description>Recent content in Posts on On Metal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Mon, 17 May 2021 11:30:00 +0200</lastBuildDate><atom:link href="https://onmetal.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>elements</title><link>https://onmetal.github.io/posts/elements/</link><pubDate>Mon, 17 May 2021 11:30:00 +0200</pubDate><guid>https://onmetal.github.io/posts/elements/</guid><description>Table of contents Table of contents Text Code Python C/C++ Bash Tables Text Some example text
+Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables Pages Elements 1 Text 2 Code 3 Tables</description><content type="html"><![CDATA[<h2 id="table-of-contents">Table of contents</h2>
+<ul>
+<li><a href="#table-of-contents">Table of contents</a></li>
+<li><a href="#text">Text</a></li>
+<li><a href="#code">Code</a>
+<ul>
+<li><a href="#python">Python</a></li>
+<li><a href="#cc">C/C++</a></li>
+<li><a href="#bash">Bash</a></li>
+</ul>
+</li>
+<li><a href="#tables">Tables</a></li>
+</ul>
+<h2 id="text">Text</h2>
+<p>Some example text</p>
+<h2 id="code">Code</h2>
+<h3 id="python">Python</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">foo</span>():
+    <span style="color:#66d9ef">print</span> (<span style="color:#e6db74">&#34;This is a python function&#34;</span>)
+</code></pre></div><h3 id="cc">C/C++</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-C" data-lang="C"><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">foo</span>(){
+    prinf(<span style="color:#e6db74">&#34;%s</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>, <span style="color:#e6db74">&#34;This is a C function&#34;</span>)
+}
+</code></pre></div><h3 id="bash">Bash</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e"># This is a bash command</span>
+cd dir <span style="color:#f92672">&amp;&amp;</span> echo $PWD;
+
+<span style="color:#75715e"># Return</span>
+exit 0;
+</code></pre></div><h2 id="tables">Tables</h2>
+<table>
+<thead>
+<tr>
+<th>Pages</th>
+<th>Elements</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Code</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tables</td>
+</tr>
+</tbody>
+</table>
+]]></content></item><item><title>My First Post</title><link>https://onmetal.github.io/posts/my-first-post/</link><pubDate>Mon, 17 May 2021 11:30:00 +0200</pubDate><guid>https://onmetal.github.io/posts/my-first-post/</guid><description>Blubber</description><content type="html">&lt;p>Blubber&lt;/p></content></item></channel></rss>
